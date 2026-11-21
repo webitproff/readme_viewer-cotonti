@@ -5,7 +5,16 @@ A plugin for CMF Cotonti v1.0 (Verona) and v0.9.x (Siena) that adds a "Documenta
 
 Document version: 1.3.3. Date: 2026-11-21.
 
+---  
+<img width="1920" height="1080" alt="readme_viewer_001" src="https://github.com/user-attachments/assets/acba12ec-6312-423d-b8cb-e2eadabfc66a" />
+<img width="1920" height="1080" alt="readme_viewer_002" src="https://github.com/user-attachments/assets/c4acd659-b7ee-472d-b03f-91b77ca31734" />
+<img width="1920" height="1080" alt="readme_viewer_003" src="https://github.com/user-attachments/assets/282be19b-ab5c-4fae-8b64-eb19a148e02e" />
+<img width="1920" height="1080" alt="readme_viewer_004" src="https://github.com/user-attachments/assets/c16238ba-36d6-41c9-94cc-90cd64b78b36" />
+<img width="1012" height="268" alt="readme_viewer_005" src="https://github.com/user-attachments/assets/f477895b-2b6c-47a6-ad8a-6ccc4d32b8a2" />
+
+
 ---
+
 
 ## Table of Contents
 
